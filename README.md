@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Salzstangee
-I am a new python Creator
+Hallo,
+ich bin Tobi.
 
-<!---
-Salzstangee/Salzstangee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hier werdet ihr hauptsächlich ein paar kleine Projekte von mir finden :)
